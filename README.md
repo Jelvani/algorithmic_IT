@@ -11,3 +11,9 @@ This leads me to creating this repository, and explaining the beuty behind this.
 All of the interesting topics from before, I found can be catagorized into the field of [Algorithmic information theory](http://www.scholarpedia.org/article/Algorithmic_information_theory), which relates very closely to Lindenmayer systems.
 
 This repository will include a bunch of resources and tests I would like to perform to work on compressing strings, or creating something out of almost nothing!
+
+## Resources
+[Kolmogorov Complexity](https://people.cs.uchicago.edu/~fortnow/papers/kaikoura.pdf)
+
+## TODO
+* How do Godels Incompletness theorems fit into the picture of this topic?
